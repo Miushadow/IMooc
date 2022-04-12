@@ -16,7 +16,7 @@ public class HiTabBottomInfo<Color>{
     /**
      枚举：
      enum关键字用于声明枚举，后面的TabType为定义的枚举名称，里面的BITMAP和ICON为枚举的成员
-     如果没有显示地声明基础类型，那么意味着它对应的基础类型为int
+     如果没有显示地声明基础类型，那么意味着它对应的基础类型为int类型
      */
     public enum TabType {
         BITMAP, ICON
